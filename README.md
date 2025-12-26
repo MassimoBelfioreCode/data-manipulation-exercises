@@ -12,6 +12,8 @@ This repository includes data analysis exercises performed on the following data
 
         Key Skills: Data cleaning, handling missing values (NaN), categorical encoding (mapping 'male'/'female' to 'M'/'F'), and advanced grouping with pd.crosstab.
 
+        Dataset: https://raw.githubusercontent.com/agconti/kaggle-titanic/master/data/train.csv
+
     Google Play Store Apps
 
         Source: googleplaystore.csv (Kaggle)
@@ -23,6 +25,8 @@ This repository includes data analysis exercises performed on the following data
         Source: University of Catania (DMI)
 
         Key Skills: File I/O operations, exploring correlations between GRE scores, GPA, and university admission rates.
+
+        Dataset: http://iplab.dmi.unict.it/furnari/downloads/students.csv
 
     Synthetic Data & Custom Dataframes
 
