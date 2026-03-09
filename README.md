@@ -1,5 +1,5 @@
 # data-science-exercises
-Repo currently containing my data analysis exercises with numpy, pandas, matplotlib.
+Repo currently containing my data analysis exercises with numpy, pandas, matplotlib, for data visualization and manipulation.
 
 
 **Datasets Used**
